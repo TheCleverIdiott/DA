@@ -13,17 +13,17 @@
 
 <hr>
 
-### Problem Statement
+## Problem Statement
 Chronic pain is a prevalent issue globally, affecting millions of individuals and significantly impacting their quality of life. Conditions such as arthritis, back pain, and neck pain are common forms of chronic pain. In India alone, about 19.3% of the population suffers from chronic pain, highlighting the urgent need for effective management solutions.
 
-#### Current Challenges:
+### Current Challenges:
 
 - **Over-the-counter Painkillers**: Often lead to nausea and dependency.
 - **Physiotherapy** Lacks standardization and can be expensive.
 - **Yoga** Can increase the risk of injury if not performed correctly.
   
 
-### Solution: Vitality.ai
+## Solution: Vitality.ai
 Vitality.ai offers a comprehensive solution for chronic pain management by combining several innovative features:
 
 - **Personalized Exercise and Diet Plans**: Utilizing AI and computer vision motion tracking to provide customized plans based on individual needs.
@@ -34,7 +34,7 @@ Vitality.ai offers a comprehensive solution for chronic pain management by combi
 
 <hr>
 
-### Application Demo
+## Application Demo
 #### Video - 
 #### User Guide - <a href="https://scribehow.com/shared/How_to_use_Vitality_AI__sSjOBHNcTD6lh9IusYXi2w"> **Click here** </a> (opens in a new tab)
 
