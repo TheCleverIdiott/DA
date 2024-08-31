@@ -33,7 +33,7 @@ Vitality.ai offers a comprehensive solution for chronic pain management by combi
 
 ### Application Demo
 #### Video - 
-#### User Guide - 
+#### User Guide - <a href="https://scribehow.com/shared/How_to_use_Vitality_AI__sSjOBHNcTD6lh9IusYXi2w"> **Click here** </a> (opens in a new tab)
 
 
 <div align="center">
@@ -48,6 +48,8 @@ Vitality.ai offers a comprehensive solution for chronic pain management by combi
     </tr>
   </table>
 </div>
+
+
 
 
 
